@@ -153,8 +153,7 @@ linking:
 .. confval:: intersphinx_cache_limit
 
    The maximum number of days to cache remote inventories.  The default is
-   ``5``, meaning five days.  Set this to a negative value to cache inventories
-   for unlimited time.
+   ``5``, meaning five days.
 
 .. confval:: intersphinx_timeout
 
